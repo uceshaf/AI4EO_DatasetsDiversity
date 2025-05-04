@@ -1,1 +1,1 @@
-https://huggingface.co/datasets/Roshal/AI4EO_DatasetsDiversity_Evals/upload/main
+https://huggingface.co/datasets/Roshal/AI4EO_DatasetsDiversity_Evals
